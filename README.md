@@ -35,7 +35,7 @@ The following image shows the web application's appearance and functionality:
 ## Description 
 
 In this challenge I have refactored the Index.html, Style.css, and the README.md. I changed elements to more appropriate ones as well as changed the h2 for the footer to h4 so it would be sequential. I have restored proper function to the "Search Engine Optimization" tab. I consolidated font families, deleted empty rules, consolidated benefit and content items, consolidated a and p
-to be with * and body. I have edited the read me to include a description and left information that I felt like would be important for the future.
+to be with * and body. I have edited the read me to include a description and left previous information that I felt like would be important for the future.
 
 ---
 Credit: Jason Jones 2022
