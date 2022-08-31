@@ -36,7 +36,7 @@ p {
    
     font-size: 20px;
 }
-/* I have deleted the rule set to save space. */
+/* I have deleted the empty rule set to save space. */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
