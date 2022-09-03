@@ -11,9 +11,7 @@
 body {
     background-color: #d9dcd6;
 }
-/*I have moved a and p to a proper postion*/ 
-a {    
-}
+/*I have moved a and p to a proper postion and have since removed a for being empty after the consolidation of it's text-declaration: none;.*/ 
 p {
     font-size: 16px;
 }
