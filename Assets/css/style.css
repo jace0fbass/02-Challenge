@@ -5,6 +5,7 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;
+    text-decoration: none;
 
 }
 body {
@@ -12,7 +13,6 @@ body {
 }
 /*I have moved a and p to a proper postion*/ 
 a {    
-    text-decoration: none;
 }
 p {
     font-size: 16px;
