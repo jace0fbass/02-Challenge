@@ -4,13 +4,15 @@
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+
 }
 body {
     background-color: #d9dcd6;
 }
 /*I have moved a and p to a proper postion*/ 
 a {
-    color: #ffffff;
+    
     text-decoration: none;
 }
 p {
@@ -20,7 +22,7 @@ p {
 .header {
     padding: 20px; 
     background-color: #2a607c;
-    color: #ffffff;
+    
 }
 .header h1 {
     display: inline-block;
@@ -74,7 +76,7 @@ p {
 /* I have consolidated benefit items to save space. */
 .benefit-lead,.benefit-brand,.benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    
 }
 /* I have consolidated benefit items to save space. */
 .benefit-lead h3,.benefit-brand h3,.benefit-cost h3 {
@@ -94,7 +96,7 @@ p {
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
-    color: #ffffff;
+    
 }
 /* I have consolidated content items to save space. */
 .search-engine-optimization img,.online-reputation-management img,.social-media-marketing img {
